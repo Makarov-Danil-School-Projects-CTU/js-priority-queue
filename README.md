@@ -1,3 +1,3 @@
 Keywords: JavaScript, Data structures
 
-Priority queue implementation in Js
+### Priority queue implementation in JavaScriot
